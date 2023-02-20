@@ -1,2 +1,2 @@
-# Maxon_DCX35L-Motor-Contorl
+# Maxon_DCX35L-Motor-Control
 Robot Experiment 4
